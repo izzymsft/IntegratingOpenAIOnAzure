@@ -25,3 +25,8 @@ The participants will learn how to:
 - Manage availability, business continuity and disaster recovery.
 - Implement solutions for batch and near real-time use cases.
 
+## Reference Resources
+- [AI & ML Academy page on Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai)
+- [Azure OpenAI Learning Plan Resources page](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai)
+- [OpenAI videos coming soon](https://aka.ms/aimlpartnerprep)
+- [Challenge Based Hackathon for Integrating OpenAI on Azure](https://aka.ms/AzureOpenAIWhatTheHack) (Coming Soon in May 2023)
